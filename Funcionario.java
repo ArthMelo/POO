@@ -61,5 +61,4 @@ public class Funcionario {
 			this.horasTrabalhadasMes = horasTrabalhadasMes + horasTrabalhadas;
 		}
 	}
-
 }

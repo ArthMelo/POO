@@ -9,6 +9,9 @@ public class Lab2 {
         System.out.println("Salario por Hora: "+funcionario1.getSalarioHora());
         System.out.println("Salario: "+funcionario1.calculaSalarioMes());
         funcionario1.reiniciaMesTrabalho();
-        
+
+        VolumeEsfera esfera = new VolumeEsfera(5.0);
+
+        System.out.println("Volume: "+esfera.Volume);
     }
 }
