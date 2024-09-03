@@ -1,4 +1,4 @@
-package aula_poo.lab_03;
+package study.arthur.lab3;
 
 public class Agenda {
     private Contato[] meusContatos;

@@ -1,3 +1,4 @@
+package study.arthur.lab2;
 public class VolumeEsfera {
     public double Volume;
     public static final double PI = 3.14159;

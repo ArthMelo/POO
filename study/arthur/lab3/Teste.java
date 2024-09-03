@@ -1,5 +1,4 @@
-package aula_poo.lab_03;
-import java.util.Scanner;
+package study.arthur.lab3;
 
 public class Teste {
 

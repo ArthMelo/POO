@@ -1,3 +1,4 @@
+package study.arthur.lab1;
 import java.util.*;
 
 class Lab1 {

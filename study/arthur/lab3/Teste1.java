@@ -1,4 +1,4 @@
-package aula_poo.lab_03;
+package study.arthur.lab3;
 
 public class Teste1 {
     public static void main(String[] args) {

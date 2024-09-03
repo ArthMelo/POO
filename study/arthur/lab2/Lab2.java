@@ -1,3 +1,5 @@
+package study.arthur.lab2;
+
 public class Lab2 {
     public static void main(String[] args){
         Funcionario funcionario1 = new Funcionario("Luiz", 15.0);

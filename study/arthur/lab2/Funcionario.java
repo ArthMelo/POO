@@ -1,5 +1,4 @@
-import java.util.*;
-
+package study.arthur.lab2;
 public class Funcionario {
 	private String nome;
 	private double salarioHora;
